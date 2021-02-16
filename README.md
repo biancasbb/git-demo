@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-This is my example of text for the training in Udemy for IBM =D 
-
-Now this phrase is for the new example haha
+1. index.html
